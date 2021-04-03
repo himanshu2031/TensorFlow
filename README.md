@@ -1,6 +1,7 @@
-##Comment for dummy edit made twice
+##Comment for dummy edit made thrice
 # What's new in TensorFlow 2.x
-First Dummy edit
+Removed unnecessary edit
+
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
 * Eager Execution / tf.function
